@@ -5,5 +5,7 @@ For using the solver, just clone the master repository and put the [FEM_Bar_elem
 
 ## Example
 Let's consider the following problem:
-![](exemple_bar.jpeg)
+
+![](example_bar.jpeg)
+
 The file [bar1_example.py](https://github.com/iagolemos1/FINITE_ELEMENT_METHOD_Python/blob/master/bar1_example.py) on how to use the solver for runing the calculations for the defined model. 
