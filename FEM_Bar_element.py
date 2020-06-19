@@ -45,7 +45,7 @@ class fem_model(object):
         self.bc = model_params[1]               #matrix of boundary conditions
         self.imp_F = model_params[2]            #matrix of imposed forces
         
-        #Constructing the conectivite matrix
+        #Constructing the connectivity matrix
         conec_mat = np.empty((self.nb_ele, 2))
         for i in range(0, conec_mat.shape[0]):
             conec_mat[i,:] = [i, i+1]  
