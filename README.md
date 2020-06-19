@@ -8,4 +8,4 @@ Let's consider the following problem:
 
 ![](example_bar.jpeg)
 
-The file [bar1_example.py](https://github.com/iagolemos1/FINITE_ELEMENT_METHOD_Python/blob/master/bar1_example.py) on how to use the solver for runing the calculations for the defined model. 
+The file [bar1_example.py](https://github.com/iagolemos1/FINITE_ELEMENT_METHOD_Python/blob/master/bar1_example.py) on how to use the solver for runing the calculations for the defined model and get each possible output. 
