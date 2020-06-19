@@ -155,12 +155,3 @@ class fem_model(object):
             return(self.disp, self.stress, self.strain)
 
 #------------------------------------------------------------------------------        
-                
-
-                
- 
-        
-        
-        
-
-    
